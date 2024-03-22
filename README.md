@@ -7,6 +7,10 @@ Para el desarrollo de esta practica en principio se hizo el diseño de la herram
 Descripcion de funciones:
 
 1.MoveL: se trata de un movimiento que debe ser en linea recta entre dos puntos, se uso para los movimientos de escritura del logo 
+
 2.MoveJ: hace que el robot se mueva de un punto a otro sin la necesidad de ser una linea recta, la cual usamos para realizar los movimientos de levantamiento y posicionamiento de herramienta
+
 3.WaitDI: se revisa si una entrada digital especifica esta activa y en base a eso se realizara una accion, si no simplemente se saltara esa orden del codigo
+
 4.SETDO: se establece el estado de una salida digital entre valores de 1 y 0 es decir encendido o apagado
+
